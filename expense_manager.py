@@ -1,13 +1,3 @@
-
-# ============================================
-# EvenSplit: Group Expense Settlement Optimiser
-# Module: Expense Management
-# File: expense_manager.py
-# Developed by: Member 1
-# ============================================
-
-
-# Function 1: Create a new group
 def create_group():
 
     print("\n========== CREATE GROUP ==========")
